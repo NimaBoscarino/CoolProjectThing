@@ -7,6 +7,7 @@ for (let i = 0; i < 10; i++) {
 }
 
 // also make a variable
+var hello = "world"
 
 // and add 3 to it
 
